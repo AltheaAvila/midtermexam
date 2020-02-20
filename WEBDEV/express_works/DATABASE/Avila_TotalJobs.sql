@@ -1,0 +1,1 @@
+SELECT COUNT(*) "Total Jobs" FROM "Avila_MidtermExam".jobs
